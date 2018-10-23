@@ -1,6 +1,6 @@
 {
   "name": "@odyzeo/pluralize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Odyzeo pluralize helper",
   "main": "index.js",
   "scripts": {
